@@ -1,0 +1,25 @@
+/* {
+    padding: 0px;
+    margin: 0;
+}*/
+
+#foto-perfil {
+    width: 225px;
+    border: 5px solid dimgray;
+    border-radius: 50%;
+}
+body {
+    background: deepskyblue;
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+.container {
+    margin-left: 350px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    width: 550px;
+}
