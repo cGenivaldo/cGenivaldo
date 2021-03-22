@@ -5,8 +5,15 @@
 
 #foto-perfil {
     width: 225px;
-    border: 5px solid dimgray;
-    border-radius: 50%;
+   
+    padding: 5px;
+    background: slategray;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+#foto-perfil:hover {
+    border: 5px solid slategray;
 }
 body {
     background: deepskyblue;
@@ -14,16 +21,21 @@ body {
 
 h1 {
     font-family: 'Roboto Condensed', sans-serif;
-}
-
-
-.container {
-    margin-left: 350px;
     text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
-    width: 550px;
 }
+
+
 
 .nome {
     font-family: sans-serif;
+}
+
+.description {
+    position: absolute;
+    margin-top: -215px;
+    margin-left: 250px;
+}
+
+ul > li:nth-child(odd) {
+    font-weight: 600;
 }
