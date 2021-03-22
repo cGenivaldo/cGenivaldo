@@ -1,1 +1,1 @@
-# Tenho que fazer uma descrição ainda
+Estudante de desenvolvimento web - Trybe
