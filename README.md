@@ -1,1 +1,4 @@
-Estudante de desenvolvimento web - Trybe
+## Genivaldo Cícero
+
+Estudante de desenvolvimento web ❤️;
+Estudando HTML CSS javaScrip
