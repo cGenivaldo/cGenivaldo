@@ -1,4 +1,4 @@
 ## Genivaldo Cícero
 
-Estudante de desenvolvimento web ❤️;
-Estudando HTML CSS javaScrip
+<p>Estudante de desenvolvimento web ❤️</p>
+<p>Estudando HTML CSS javaScript</p>
